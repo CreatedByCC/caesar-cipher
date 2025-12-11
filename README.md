@@ -2,7 +2,6 @@
 ![MIT License](https://img.shields.io/badge/License-MIT-green)
 ![100 Days of Code](https://img.shields.io/badge/100DaysOfCode-Day%208-orange)
 
-![Caesar Cipher Banner](banner.png)
 # Caesar Cipher 🔐
 
 A Python project that implements the classic Caesar cipher.  
